@@ -31,7 +31,7 @@ found = no
 i = 3
 current value = 7
 found = Yes 
-
+Return 3
 '''
 # Normal Version
 def find_target(arr,target):
